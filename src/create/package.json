@@ -1,0 +1,13 @@
+{
+  "name": "todo-hyuna",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Yanek <yaneks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  }
+}
